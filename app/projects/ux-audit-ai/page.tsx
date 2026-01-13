@@ -22,7 +22,7 @@ export default function UXAuditAI() {
             target="_blank"
             className="px-6 py-3 bg-green-500 text-black font-bold rounded hover:bg-green-400 transition"
           >
-            🚀 Live Platform
+            Live Platform
           </a>
 
           <a

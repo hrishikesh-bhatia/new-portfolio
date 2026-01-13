@@ -23,7 +23,7 @@ export default function CodeMate() {
     target="_blank"
     className="px-6 py-3 bg-green-500 text-black font-bold rounded hover:bg-green-400 transition"
   >
-     Live Demo
+     Live Platform
   </a>
 
   <a
