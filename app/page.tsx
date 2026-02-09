@@ -36,7 +36,7 @@ export default function Home() {
 
           <h1 className="text-5xl font-bold mb-6">
             {displayed}
-            <span className="animate-pulse">█</span>
+            {/* <span className="animate-pulse">█</span> */}
           </h1>
 
           <p className="text-gray-300 max-w-2xl">
